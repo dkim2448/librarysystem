@@ -1,4 +1,4 @@
-# System for Library Management | Project 1
+# System for Library Management
 
 ## Compilation and Execution Instructions:
 Compilation will take place in the root directory: `f24-pr1-kimd61`, which contains both the `src` and `data` folders. `main.cpp` is used for execution. **Copy and paste for compiling:**
