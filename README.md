@@ -1,7 +1,7 @@
 # System for Library Management
 
 ## Compilation and Execution Instructions:
-Compilation will take place in the root directory: `f24-pr1-kimd61`, which contains both the `src` and `data` folders. `main.cpp` is used for execution. **Copy and paste for compiling:**
+Compilation will take place in the root directory, which contains both the `src` and `data` folders. `main.cpp` is used for execution. **Copy and paste for compiling:**
 ```cpp
 g++ .\src\Library.cpp .\src\Book.cpp .\src\main.cpp .\src\Member.cpp .\src\Adult.cpp .\src\Child.cpp
 ```
