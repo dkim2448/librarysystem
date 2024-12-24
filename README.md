@@ -6,11 +6,6 @@ Compilation will take place in the root directory, which contains both the `src`
 g++ .\src\Library.cpp .\src\Book.cpp .\src\main.cpp .\src\Member.cpp .\src\Adult.cpp .\src\Child.cpp
 ```
 
-
-## Project Status
-The project operates as intended and is fully functional.
-<br></br>
-
 <div>
    <h1>Manual</h1>
    <h3>Description</h3>
@@ -232,6 +227,3 @@ classDiagram
         + Child(string, int, int)
         + virtual void sectionAccess() 
     }
-```
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17145082)
-This is where you will be the README.md required in your [Project Specifications](./Project-Specifications.md)
