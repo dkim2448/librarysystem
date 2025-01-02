@@ -1,6 +1,6 @@
 # System for Library Management
 
-Compilation and Execution Instructions:
+<p>Compilation and Execution Instructions:</p>
 Compilation will take place in the root directory, which contains both the `src` and `data` folders. `main.cpp` is used for execution. **Copy and paste for compiling:**
 ```cpp
 g++ .\src\Library.cpp .\src\Book.cpp .\src\main.cpp .\src\Member.cpp .\src\Adult.cpp .\src\Child.cpp
